@@ -11,5 +11,5 @@ Tut 01 - Done
 Tut 02 - Done
 Tut 03 - Done
 Tut 04 - Done
-Tut 05
-Tut 06
+Tut 05- Done
+Tut 06- Done
